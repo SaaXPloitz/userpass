@@ -1,16 +1,23 @@
 {
-  "user": {
+  "user1": {
     "password": "password123",
     "role": "user",
-    "vip": true,
+    "vip": false,
     "max_ddos_time": 60,
-    "access_time": 1677959800000
+    "access_time": 1730150400000
+  },
+  "vipuser": {
+    "password": "vipsecret",
+    "role": "user",
+    "vip": true,
+    "max_ddos_time": 120,
+    "access_time": 1730150400000
   },
   "admin": {
-    "password": "1",
+    "password": "adminpass",
     "role": "admin",
     "vip": true,
     "max_ddos_time": 180,
-    "access_time": 1677959800000
+    "access_time": 1730150400000
   }
 }
