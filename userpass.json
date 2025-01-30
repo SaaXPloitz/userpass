@@ -1,5 +1,14 @@
 {
-  "admin": "password123",
-  "user1": "mypassword",
-  "user2": "anotherpassword"
+  "user1": {
+    "password": "password123",
+    "role": "user",
+    "vip": false,
+    "isLoggedIn": false
+  },
+  "admin": {
+    "password": "1",
+    "role": "admin",
+    "vip": true,
+    "isLoggedIn": false
+  }
 }
