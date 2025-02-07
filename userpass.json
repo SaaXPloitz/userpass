@@ -1,5 +1,14 @@
 {
-  "admin": "1",
-  "user1": "bintang",
-  "user2": "cekidot"
+  "owner": {
+    "password": "1",
+    "expired": "2026-01-01"
+  },
+  "buyer1": {
+    "password": "2",
+    "expired": "2030-12-31"
+  },
+  "buyer2": {
+    "password": "3",
+    "expired": "2025-02-05"
+  }
 }
