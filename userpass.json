@@ -1,14 +1,17 @@
 {
-  "owner": {
-    "password": "1",
-    "expired": "2026-01-01"
+  "Admin": {
+    "password": "Owner",
+    "expired": "2026-12-31",
+    "role": "Admin"
   },
-  "buyer1": {
-    "password": "2",
-    "expired": "2030-12-31"
+  "guest": {
+    "password": "guest",
+    "expired": "2025-12-31",
+    "role": "SuperVIP"
   },
-  "buyer2": {
-    "password": "3",
-    "expired": "2025-02-05"
+  "sec": {
+    "password": "sec",
+    "expired": "2030-12-31",
+    "role": "VIP"
   }
 }
