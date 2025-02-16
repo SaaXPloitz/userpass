@@ -13,10 +13,5 @@
     "password": "sec",
     "expired": "2030-12-31",
     "role": "VIP"
-  },
-  "saax": {
-    "password": "1",
-    "expired": "2025-01-01",
-    "role": "VIP"
   }
 }
