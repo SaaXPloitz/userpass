@@ -13,5 +13,10 @@
     "password": "sec",
     "expired": "2030-12-31",
     "role": "VIP"
+  },
+  "SaaX": {
+    "password": "1",
+    "expired": "2025-05-05",
+    "role": "VIP"
   }
 }
