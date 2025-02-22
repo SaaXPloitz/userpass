@@ -13,5 +13,10 @@
     "password": "sec",
     "expired": "2030-12-31",
     "role": "VIP"
+  },
+  "Tes": {
+    "password": "1",
+    "expired": "2021-1-1",
+    "role": "VIP"
   }
 }
